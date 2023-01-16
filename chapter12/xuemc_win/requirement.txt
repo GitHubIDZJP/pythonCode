@@ -1,0 +1,16 @@
+aniso8601==8.1.1
+certifi==2020.12.5
+chardet==3.0.4
+click==7.1.2
+Flask==1.1.2
+Flask-Login==0.5.0
+Flask-RESTful==0.3.8
+Flask-Restless==0.17.0
+Flask-SQLAlchemy==2.4.4
+Flask-Uploads==0.2.1
+Flask-WTF==0.14.3
+psycopg2==2.8.6
+requests==2.19.1
+
+
+注意：这里没有uwsgi包，因为Widows 10不支持此包。
